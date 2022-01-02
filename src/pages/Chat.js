@@ -121,7 +121,7 @@ export default class Chat extends Component {
           </button>
         </form>
         <div className="py-5 mx-3">
-          Iniciar sesión como:{" "}
+          Usuario:{" "}
           <strong className="text-info">{this.state.user.email}</strong>
         </div>
       </div>

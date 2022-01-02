@@ -7,7 +7,7 @@ body {
 
 .chat-area, .home {
   margin-top: 60px;
-  background: url("https://preview.redd.it/qwd83nc4xxf41.jpg?width=640&crop=smart&auto=webp&s=e82767fdf47158e80604f407ce4938e44afc6c25");
+  background: #F9F9F9;
 }
 
 .chat-area {
@@ -23,6 +23,7 @@ body {
   max-width: 300px;
   word-wrap: break-word;
   border-radius: 25px 5px 25px 0px;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 .chat-bubble .chat-time {

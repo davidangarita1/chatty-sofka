@@ -18,7 +18,7 @@ function Header() {
             </div>
             : <div className="navbar-nav">
               <Link className="nav-item nav-link mr-3" to="/login">Iniciar sesión</Link>
-              <Link className="nav-item nav-link mr-3" to="/signup">Incribirse</Link>
+              <Link className="nav-item nav-link mr-3" to="/signup">Registrarse</Link>
             </div>}
         </div>
       </nav>
